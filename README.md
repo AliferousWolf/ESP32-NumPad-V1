@@ -1,7 +1,7 @@
 Included are all the files for the PCB and parts of the numpad v1
 ------------------------
 This is technically a prototype. The code is from various libraries and not very optomized, but it is a place to start.
-To flash the ESP32 with the code, I used ArduinoIDE with the ESP32 boards added.
+To flash the ESP32 with the code, I used ArduinoIDE with the ESP32 boards added. When flashing, don't forget to download the libraries used within the code.
 
 Parts used (part number):
 ------------------------
